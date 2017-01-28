@@ -1,0 +1,7 @@
+[16-May-2013 02:40:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/jvppbgkn/public_html/msis/MPHP/Common/Connection.php on line 15
+[16-May-2013 02:40:04] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/jvppbgkn/public_html/msis/MPHP/Common/Connection.php on line 40
+[16-May-2013 02:42:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/jvppbgkn/public_html/msis/MPHP/Common/Connection.php on line 15
+[16-May-2013 02:42:08] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/jvppbgkn/public_html/msis/MPHP/Common/Connection.php on line 40
+[16-May-2013 03:08:38] PHP Parse error:  syntax error, unexpected '[' in /home/jvppbgkn/public_html/msis/MPHP/Student/GetTeacherTimeTable.php on line 31
+[16-May-2013 03:09:06] PHP Parse error:  syntax error, unexpected '[' in /home/jvppbgkn/public_html/msis/MPHP/Student/GetTeacherTimeTable.php on line 31
+[16-May-2013 07:21:27] PHP Fatal error:  Call to undefined function  getgp() in /home/jvppbgkn/public_html/msis/MPHP/Student/a.php on line 24

@@ -1,0 +1,24 @@
+<!-- Google Charts Code Starts Here -->
+    <script type="text/javascript" src="../js/jsapi.js"></script>
+    <script type="text/javascript">
+        google.load("visualization", "1", { packages: ["corechart"] });
+        google.setOnLoadCallback(drawChart);
+        function drawChart() {
+            var data = google.visualization.arrayToDataTable([
+          ['Month', 'MGT101', 'CS201'],
+          ['Jan', 20, 40],
+          ['Feb', 30, 60],
+          ['Mar', 100, 20],
+          ['Apr', 80, 90]
+        ]);
+
+            var options = {
+                title: 'Attendace',
+                hAxis: { title: 'Year', titleTextStyle: { color: 'red'} }
+            };
+
+            var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        }
+    </script>
+    <!-- Google Charts Code Ends Here -->
