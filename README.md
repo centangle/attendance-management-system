@@ -1,7 +1,8 @@
 # School & Attendance Management System
 
-### Modules: ### 
-Markup :  ### Attendance, Task & Quiz, Communication, Events & Announcements, Dynamic Timetable, Parent, Student, Teacher, Coordinator ###
+### Modules:  
+
+Attendance, Task & Quiz, Communication, Events & Announcements, Dynamic Timetable, Parent, Student, Teacher, Coordinator ###
 
 School & Attendance Management System (SAMS) is developed as mobile and web based application. SAMS users’ can access their relevant information from anywhere and stay in contact with campus activities.
 
@@ -78,4 +79,3 @@ Import the 'sql' file content using 'phpmyadmin'
 - Student Login =>  Usernmae: arslan | password : 1
 - Teacher Login =>  Usernmae: bilalghouri@msis.com | password : bilal
 - Coordinator Login => Username: arslankhd@msis.com | password: arslan
-- 
