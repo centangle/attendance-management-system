@@ -6,7 +6,7 @@ Attendance, Task & Quiz, Communication, Events & Announcements, Dynamic Timetabl
 
 School & Attendance Management System (SAMS) is developed as mobile and web based application. SAMS users’ can access their relevant information from anywhere and stay in contact with campus activities.
 
-* The main functions of MSIS are mentioned below:
+* The main functions of SAMS are mentioned below:
 * Semester wise result of Student(s)
 * Course and Teacher assessment
 * Assignment, Lecture, Quizzes, Attendance		           		
@@ -75,7 +75,7 @@ Import the 'sql' file content using 'phpmyadmin'
 
 ## How to access
 - Go to http://localhost/attendance-management-system/index.php 
-- Monitor Login =>  Usernmae: bilalghouri@msis.com | password : bilal
+- Monitor Login =>  Usernmae: bilalghouri@SAMS.com | password : bilal
 - Student Login =>  Usernmae: arslan | password : 1
-- Teacher Login =>  Usernmae: bilalghouri@msis.com | password : bilal
-- Coordinator Login => Username: arslankhd@msis.com | password: arslan
+- Teacher Login =>  Usernmae: bilalghouri@SAMS.com | password : bilal
+- Coordinator Login => Username: arslankhd@SAMS.com | password: arslan
