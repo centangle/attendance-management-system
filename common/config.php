@@ -1,9 +1,9 @@
 <?php
 
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'cent_school');
-    define('DB_PASSWORD', 'z{-?kKs;Sp@q');
-    define('DB_DATABASE', 'cent_school');
+    define('DB_USER', 'Enter Username Here');
+    define('DB_PASSWORD', 'Enter Password Here');
+    define('DB_DATABASE', 'Enter Database Name Here');
     	//Array to store validation errors
 	$errmsg_arr = array();
 	
