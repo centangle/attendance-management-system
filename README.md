@@ -2,7 +2,7 @@
 
 ### Modules:  
 
-Attendance, Task & Quiz, Communication, Events & Announcements, Dynamic Timetable, Parent, Student, Teacher, Coordinator ###
+Attendance, Task & Quiz, Communication, Events & Announcements, Dynamic Timetable, Parent, Student, Teacher, Coordinator
 
 School & Attendance Management System (SAMS) is developed as mobile and web based application. SAMS users’ can access their relevant information from anywhere and stay in contact with campus activities.
 
